@@ -1,0 +1,23 @@
+{
+    "dependencies": {
+        "express": "~4.9"
+    },
+    "description": "Agnostic Node.js Heroku template, based on Express 4, by @lespolypodes",
+    "engines": {
+        "node": "0.10.x"
+    },
+    "keywords": [
+        "node",
+        "heroku",
+        "express",
+        "template"
+    ],
+    "license": "MIT",
+    "name": "lespolypodes-nodejs-heroku-template",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/polypodes/nodejs-heroku-template"
+    },
+    "version": "0.0.1"
+}
