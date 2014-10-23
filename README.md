@@ -28,6 +28,8 @@ Alternatively, you can deploy your own copy of the app using this button:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+Deploy demo: [pure-reaches-2947.herokuapp.com](https://pure-reaches-2947.herokuapp.com/)
+
 ## Documentation
 
 For more information about using Heroku, check out https://devcenter.heroku.com/
