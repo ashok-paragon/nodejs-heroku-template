@@ -7,6 +7,6 @@
         "template"
     ],
     "logo": "http://node-js-sample.herokuapp.com/node.svg",
-    "name": "lespolypodes-nodejs-heroku-template",
+    "name": "lespolypodes-nodejs-heroku-tpl",
     "repository": "https://github.com/polypodes/nodejs-heroku-template"
 }
